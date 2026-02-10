@@ -1,0 +1,7 @@
+fastapi>=0.100
+uvicorn[standard]
+pyjwt>=2.8
+redis>=5.0
+sqlalchemy>=2.0
+pydantic>=2.0
+python-dotenv
